@@ -1,6 +1,5 @@
 
-hello!
--<h1 align="center">Hi 👋, I'm Aditya kishor</h1>
+<h1 align="center">Hi 👋, I'm Aditya kishor</h1>
 <h3 align="center">A Learner</h3>
 
 - 🌱 I’m currently in **Information Technology**
@@ -12,6 +11,7 @@ hello!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/@adikishor67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@adikishor67" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/adikiszllr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adikiszllr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
