@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kishor</h1>
 <h3 align="center">Learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakishor1&label=Profile%20views&color=0e75b6&style=flat" alt="adityakishor1" /> </p>
-
 - 🔭 I’m currently working on project **Data Science**
 
 - 🌱 I’m currently learning **Information Technology**
@@ -24,7 +22,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cold coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cold coffee" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakishor1&show_icons=true&locale=en&layout=compact" alt="adityakishor1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakishor1&" alt="adityakishor1" /></p>
