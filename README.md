@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on project **Data Science**
 
-- 🌱 I’m currently learning **Information Technology**
+- 🌱 I’m pursuing **Information Technology**
 
 - 📫 How to reach me **adikishor67@gmail.com**
 
